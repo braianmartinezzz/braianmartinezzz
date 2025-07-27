@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**braianmartinezzz/braianmartinezzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Braian Martínez
 
-Here are some ideas to get you started:
+* Analista Programador *(55,56%)*
+* Ingeniero en Sistemas *(34,78%)*
+ 
+### 🔗 Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+
+[![Instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/braianmartineztecnico.gp?igsh=MTVseGxxdTZ5ZG1keQ==)
+
+[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braian-martínez-b430401a0)
+
