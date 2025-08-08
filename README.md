@@ -1,7 +1,7 @@
 
 # Braian Martínez
 
-* Analista Programador *(55,56%)*
+* Analista Programador *(59,26%)*
 * Ingeniero en Sistemas *(34,78%)*
  
 ### 🔗 Links
