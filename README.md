@@ -12,3 +12,4 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braian-martínez-b430401a0)
 
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=braianmartinezzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braianmartinezzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Lenguajes" /> </p>
